@@ -1,7 +1,5 @@
 # Welcome to mpusch88's GitHub Repository
 
-<img src="jelly.jpg"  width="400" height="400">
-
 ## Software Engineer | Music & Audio Enthusiast | AI & Game Design Explorer
 
 Hello there! I'm a software engineer with experience in various programming languages, including C, C#, C++, Java, Python, VB, JS, and React. My interests span music & audio, video games, technology, science, and more. I'm passionate about combining these fields to create innovative and engaging experiences, with artificial intelligence as my latest passion – I'm excited by the productivity and efficiency it brings to the table.
