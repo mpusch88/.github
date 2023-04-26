@@ -1,6 +1,6 @@
 # Welcome to mpusch88's GitHub Repository
 
-![""](jelly.jpg)
+<img src="jelly.jpg"  width="400" height="400">
 
 ## Software Engineer | Music & Audio Enthusiast | AI & Game Design Explorer
 
